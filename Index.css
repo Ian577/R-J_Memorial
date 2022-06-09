@@ -2,7 +2,7 @@
     padding: 10px; /* some padding */
     text-align: center; /* center the text */
     background-image: url("B1791143-3D60-4F1D-A307-29EF8AA806CB.jpeg"); /* image backfround */
-    background-size: auto;
+    background-size: cover;
     color: black; /* black text color */
 }
 
