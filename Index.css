@@ -41,9 +41,9 @@
 }
 
 .title {
-     font-size: 7rem;
+     font-size: 5rem;
      color: white;
-     text-shadow: 0 0 7px black;
+     text-shadow: 0 0 9px black;
 }
 
 .navbar { /* style the top of the navigation bar */
