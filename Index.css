@@ -46,6 +46,11 @@
      text-shadow: 0 0 9px black;
 }
 
+.p {
+    font-size: 2vw;
+    corlor: black;
+}
+
 .navbar { /* style the top of the navigation bar */
     overflow: auto; /* hide overflow */
     background-color: #333; /* dark background color */
